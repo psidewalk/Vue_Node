@@ -10,3 +10,5 @@ And the third component, associated with the "footer" of the page. But this "foo
 enterprise informations. In this exercise, would be the section where the servers would be "activated" or "desactived",
 for example.
 If anybody manifest interest, I can explain with more details in a near future.
+
+The exercise used bootstrap for the css classes, included in the "main index.html" file of the app.
