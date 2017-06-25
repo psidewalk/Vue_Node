@@ -7,7 +7,7 @@ in the future. I considered a "lay-out" repeating itself in a few pages.
 The second component, "Body", would contain a dynamic list of html paragraphs (not now , but in a real App), with a basic information of "status of servers".
 Just a simple information, for the example of the "v-for" directive of VueJs.
 And the third component, associated with the "footer" of the page. But this "footer" is not about "authors" or
-enterprise informations. In this exercise, would be the section where the servers would be "activated" or "desactived",
+enterprise informations. In this exercise, would be the section where the servers would be "activated" or "deactived",
 for example.
 If anybody manifest interest, I can explain with more details in a near future.
 
