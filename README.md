@@ -1,6 +1,6 @@
 # Vue and Node Codes
 This is the first version of the exercise about components, of the nice course of Udemy.com, about Vue 2.0.
-It is a simple SPA page with three components in the page,i say : "Header","Body" and "Footer".
+It is a simple SPA with three Vue components in the page,i say : "Header","Body" and "Footer".
 It is a very basic APP, really a "Practice Exercise" about the use of Vue components.
 I created a component for the Header section of the page because I supposed that would repeat in another pages,
 in the future. I considered a "lay-out" repeating itself in a few pages.
