@@ -22,4 +22,4 @@ The exercise used bootstrap for the css classes, included in the "index.html" fi
 
 The "Sec8_Task7.zip" is an evolution of this and is another task of the course, the Task 7 of Section 8, completed, without the "node_modules" folder, for obvious reason. And I considered "another project" here in Git. Click on the option "Projects" below "psidewalk/Vue_Node" to see a resumed description of the task.
 
-I'm not a Vue expert yet, but if I can help anybody, no problem. <pcsidewalk@gmail.com>. (Obs: I'm brasilian. Sorry for eventual doubts, if you send an e-mail to me in English).
+I'm not a Vue expert, yet, but if I can help anybody, no problem. <pcsidewalk@gmail.com>. (Obs: I'm brasilian. Sorry for eventual doubts, if you send an e-mail to me in English).
